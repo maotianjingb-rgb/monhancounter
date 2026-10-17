@@ -1,0 +1,21 @@
+{
+  "name": "モンハン設定判別カウンター",
+  "short_name": "モンハン判別",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f9",
+  "theme_color": "#172554",
+  "description": "設定判別と低確・高確クエスト当選率を別管理するカウンター",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
